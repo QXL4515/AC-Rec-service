@@ -15,7 +15,7 @@ The flow chart of AC-Rec for personalized academic collaborator recommendation s
 ## Related Codes
 * program1: It mainly includes data processing, training text vector model and calculating textual similarity.
 * program2: It mainly includes calculating social relevance.
-* program3: It mainly includes calculating self-activity, training recommendation model and recommending.
+* program3: It mainly includes calculating self-activity, training recommendation model and recommendation service.
 ### The textual similarity
 We use the Doc2Vec model to calculate the similarity of published papers between researchers, and construct a textual similarity Matrix: Textual-Similarity Matrix. The relevant code is as follows.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/textual.png" width="500"/>
