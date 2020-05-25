@@ -1,9 +1,5 @@
 # AC-Rec-service
-CAGFuzz, a Coverage-guided Adversarial Generative Fuzzing testing approach for DL systems. The goal of the CAGFuzz is to maximize the neuron coverage and generate adversarial test examples as much as possible with minor perturbations for the target DNNs. It mainly consists of four folders：
-* Coverage_Calculate
-* CycleGAN
-* model
-* similarity
+AC-Rec: a personalized academic collaborator recommendation service framework which aims to provide a recommendation service for academic collaborator on ResearchGate.
 
 
 ## Coverage_Calculate
