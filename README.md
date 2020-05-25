@@ -2,7 +2,17 @@
 AC-Rec: a personalized academic collaborator recommendation service framework which aims to provide a recommendation service for academic collaborator on ResearchGate.
 
 
-## Coverage_Calculate
+## System Description
+This is a multi-feature-based service framework, named AC-Rec (Academic Collaborator Recommendation). This framework aims to provisioning a personalized academic collaborator recommendation service on ResearchGate. This service is able to recommend Top-N academic collaborators for each researcher based on multi-layer perception.
+
+AC-Rec measures the correlation between researchers by aggregating three factors, namely, the textual similarity between researchers’ published papers, the social relevance between researchers and the self-activity of researchers on ResearchGate. The textual similarity of published papers is calculated by the Doc2Vec text depth representation model. The social relevance is calculated by the graph-based random walk algorithm.
+
+We ran our experiments on the win10 platform, which with Intel (R) Core(TM) i7-8750H CPU @2.20 GHz 2.21 GHz, 8.00 GB RAM.
+
+The flow chart of AC-Rec for personalized academic collaborator recommendation service framework as follows. The framework is divided into three main steps: data collection and processing, model training and optimization, and model prediction and recommendation.
+
+<img src="https://github.com/QXL4515/AC-Rec-service/img/AC-Rec.jpg" width="500"/>
+
 This folder contains the code to calculate the neuron coverage. You can call the functions in the python file to run directly. An example is as follows:
 ```python
 from Keras_coverage import NCoverage
