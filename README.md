@@ -23,7 +23,7 @@ We use the Doc2Vec model to calculate the similarity of published papers between
 We use the graph-based random walk algorithm to calculate the social relevance between two researchers. A Social Relevance Matrix will be constructed as the output of this step.The relevant code is as follows.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/social.png" width="500"/>
 ### The academic collaborator recommendation service
-We use multi-layer perceptron to build our recommendation service. Our MLP model contains two hidden layers. Each hidden layer includes 10 neurons. There are three neurons on the input layer and one neuron on the output layer. The relevant code is as follows.
+We use multi-layer perceptron to build our recommendation service. Our MLP model contains two hidden layers. Each hidden layer includes 10 neurons. There are three neurons on the input layer and one neuron on the output layer.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/recommend.png" width="500"/>
 ## Experimental screenshot
 Here we recommend 30 most similar potential academic collaborators using our AC-Rec recommendation service.
