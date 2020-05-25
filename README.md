@@ -11,7 +11,7 @@ We ran our experiments on the win10 platform, which with Intel (R) Core(TM) i7-8
 
 The flow chart of AC-Rec for personalized academic collaborator recommendation service framework as follows. The framework is divided into three main steps: data collection and processing, model training and optimization, and model prediction and recommendation.
 
-<img src="https://github.com/QXL4515/AC-Rec-service/img/AC-Rec.png" width="500"/>
+<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/AC-Rec.png" width="500"/>
 
 This folder contains the code to calculate the neuron coverage. You can call the functions in the python file to run directly. An example is as follows:
 ```python
