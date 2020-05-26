@@ -1,5 +1,4 @@
 # AC-Rec-service
-AC-Rec: a personalized academic collaborator recommendation service framework which aims to provide a recommendation service for academic collaborator on ResearchGate.
 
 ## System Description
 This is a multi-feature-based service framework, named AC-Rec (Academic Collaborator Recommendation). This framework aims to provisioning a personalized academic collaborator recommendation service on ResearchGate. This service is able to recommend Top-N academic collaborators for each researcher based on multi-layer perception.
@@ -26,7 +25,7 @@ We use the graph-based random walk algorithm to calculate the social relevance b
 We use multi-layer perceptron to build our recommendation service. Our MLP model contains two hidden layers. Each hidden layer includes 10 neurons. There are three neurons on the input layer and one neuron on the output layer.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/recommend.png" width="500"/>
 ## Experimental screenshot
-Here we recommend 30 most similar potential academic collaborators using our AC-Rec recommendation service.
+Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service, respectively.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/top30.png" width="500"/>
 
 
