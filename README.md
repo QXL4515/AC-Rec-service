@@ -27,8 +27,8 @@ We use multi-layer perceptron to build our recommendation service. Our MLP model
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/recommend.png" width="500"/>
 ## Experimental screenshot
 Here we recommend 30 most similar potential academic collaborators using our AC-Rec recommendation service.
-<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service1.png" width="250"/>
-<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service2.png" width="250"/>
+<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service1.png" width="500"/>
+
 
 
 
