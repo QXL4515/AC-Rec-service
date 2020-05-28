@@ -5,7 +5,9 @@ The purpose of AC-Rec-service system is to provide a personalized recommendation
 
 The flow chart of the AC-Rec recommendation service system is as follows.
 
-<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/flow.png" width="600"/>
+<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/flow.png" width="500"/>
+
+The system adopts B/S structure, which is divided into three functional modules: system interface display, business logic processing and user data access. The system interface display is mainly constructed by HTML, CSS and JavaScript. Business logic processing includes the connection of the front-end to the back-end database masql, and the implementation of the algorithm is recommended. User data access mainly deals with the existing data of users.
 
 ## System screenshots
 Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service, respectively.
