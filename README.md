@@ -11,7 +11,7 @@ The system adopts B/S structure, which is divided into three functional modules:
 
 ## System screenshots
 ### Home page
-The home page of the system gives a brief introduction to the system. For new users, click the registration button to register; for non new users, you can log in directly.
+The home page of the system gives a brief introduction to the system.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/home.png" width="500"/>
 ### Recommendation page
 Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service, respectively.
