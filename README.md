@@ -16,6 +16,9 @@ The home page of the system gives a brief introduction to the system.
 ### Login page
 The login page is used for users to log in. If you are a new user, you can jump to the register page to register.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/login.png" width="600"/>
+### Register page
+The register page is used for a user to register a new account.
+<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/register.png" width="600"/>
 ### Recommend page
 Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service, respectively.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service.png" width="600"/>
