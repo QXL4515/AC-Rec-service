@@ -26,7 +26,7 @@ Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar
 The profile pages show the user's personal information, including papers, following information, etc
 #### paper page
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/paper.png" width="600"/>
-#### following page
+#### paper page
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/follow.png" width="600"/>
 
 
