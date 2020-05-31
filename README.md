@@ -23,10 +23,11 @@ The register page is used for a user to register a new account.
 Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service, respectively.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service.png" width="600"/>
 ### Profile pages
-The profile pages show the user's personal information, including papers, following information, etc
 #### paper page
+The paper page shows the user's published papers.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/paper.png" width="600"/>
-#### paper page
+#### follow page
+The paper page shows the user's following information.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/follow.png" width="600"/>
 
 
