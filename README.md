@@ -21,7 +21,7 @@ The paper page shows the researcher's published papers.
 #### follow page
 The paper page shows the researcher's following information.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/follow.png" width="600"/>
-
+Img folder can be viewed in other relevant interfaces.
 
 
 
