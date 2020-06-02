@@ -1,7 +1,7 @@
-# AC-Rec-service
+# AC-Rec service
 
 ## System Description
-The purpose of AC-Rec-service system is to provide a personalized recommendation service. The data set used in this system is the real data on the ResearchGate platform, so it is mainly a recommendation service for the researchers on the ResearchGate platform to find potential academic researchers with the same or similar interests.
+The purpose of AC-Rec service system is to provide a personalized recommendation service. The data set used in this system is the real data on the ResearchGate platform, so it is mainly a recommendation service for the researchers on the ResearchGate platform to find potential academic researchers with the same or similar interests. Due to the limited conditions, we can not directly expand on the ResearchGate platform, so we have made an offline recommendation service. 
 
 The architecture of the AC-Rec recommendation service system is as follows.
 
