@@ -10,7 +10,7 @@ The architecture of the AC-Rec recommendation service system is as follows.
 The system adopts B/S structure, which is divided into three functional modules: system interface display, business logic processing and user data access. The system interface display is mainly constructed by HTML, CSS and JavaScript. Business logic processing includes the connection of the front-end to the back-end database masql, and the implementation of the algorithm is recommended. User data access mainly deals with the existing data of users.
 ## Core code
 
-## System screenshots
+## Core system screenshots
 ### Recommend page
 Here we can recommend top-5, top-10, top-15, top-20, top-25, top-30 most similar potential academic collaborators using our AC-Rec recommendation service for a given researcher, respectively.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/service.png" width="600"/>
@@ -21,7 +21,7 @@ The paper page shows the researcher's published papers.
 #### follow page
 The paper page shows the researcher's following information.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/follow.png" width="600"/>
-Img folder can be viewed in other relevant interfaces.
+
 
 
 
