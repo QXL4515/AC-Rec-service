@@ -9,6 +9,7 @@ The architecture of the AC-Rec recommendation service system is as follows.
 
 The system adopts B/S structure, which is divided into three functional modules: system interface display, business logic processing and user data access. The system interface display is mainly constructed by HTML, CSS and JavaScript. Business logic processing includes the connection of the front-end to the back-end database masql, and the implementation of the algorithm is recommended. User data access mainly deals with the existing data of users.
 ## Core code
+Program1 mainly cleans our text data, trains the text vector model and calculates the code of the textual similarity. Program2 mainly calculates the social relevance between researchers. Program3 mainly calculates the self-activity of researchers and the training of our recommendation model and the implementation of the recommendation algorithm.
 
 ## Core system screenshots
 ### Recommend page
