@@ -22,6 +22,9 @@ The paper page shows the researcher's published papers.
 #### follow page
 The paper page shows the researcher's following information.
 <img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/follow.png" width="600"/>
+#### other page
+The other page displays other relevant information of users, including behavior data and topic description of themselves.
+<img src="https://github.com/QXL4515/AC-Rec-service/blob/master/img/other.png" width="600"/>
 
 
 
